@@ -10,6 +10,7 @@ Median filter applied to the image helps achieving better results.
 Results are 3 gains for white balance and 9 elements of color correction matrix.
 
 Example results I got with ZWO ASI533MC camera and Optolong UV/IR filter, with WB_R=50 and WB_B=50 camera parameters, sunlight illumination:
+
 White balance:
 1.43 1.0 1.77
 Color correction matrix:
