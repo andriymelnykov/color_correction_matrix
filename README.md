@@ -12,10 +12,17 @@ Results are 3 gains for white balance and 9 elements of color correction matrix.
 Example results I got with ZWO ASI533MC camera and Optolong UV/IR filter, with WB_R=50 and WB_B=50 camera parameters, sunlight illumination:
 
 White balance:
+
 1.43 1.0 1.77
+
 Color correction matrix:
+
 1.387698    -0.37278958 -0.07946052
+
 -0.40483978  1.69918117 -0.27936073
+
  0.05144559 -0.74390103  1.66072276
+ 
+ 
  
  Andriy Melnykov 2024
