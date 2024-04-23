@@ -46,7 +46,7 @@ Here are the colors of captured target with **white balance and color correction
 <img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/my_corrected_displaygamma.png" width="400"/>
 </p>
 
-Here are the colors of color target for reference, according to color chart parameters (difplay gamma):
+Here are the colors of color target for reference, according to color chart parameters (display gamma):
 
 <p align="center">
 <img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/ref_srgb_displaygamma.png" width="400"/>
