@@ -7,13 +7,11 @@ Image of color chart should be 600x400 pixels debayered rgb linear(!) data, 3x8 
 Illumination must be as uniform as possible: no correction for this in the script.
 Median filter applied to the image helps achieving better results.
 
-Here is an example of camera capture, color_target_sun.tif (linear data without gamma correction is displayed dark):
+Here is an example of captured image, color_target_sun.tif (linear data without gamma correction is displayed dark):
 
 <p align="center">
-<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.tif">
+<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.tif" width="500"/>
 </p>
-
-https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.tif
 
 Results are 3 gains for white balance and 9 elements of color correction matrix.
 Applying this white balance and color correction matrix to camera rgb data one gets sRGB linear data.
