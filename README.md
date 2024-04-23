@@ -10,7 +10,7 @@ Median filter applied to the image helps achieving better results.
 Here is an example of captured image (linear data without gamma correction is displayed dark):
 
 <p align="center">
-<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.png">
+<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.png" width="400"/>
 </p>
 
 Results are 3 gains for white balance and 9 elements of color correction matrix.
