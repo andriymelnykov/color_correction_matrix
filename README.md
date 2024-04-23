@@ -20,6 +20,7 @@ Example results with ZWO ASI533MC camera and Optolong UV/IR filter, with WB_R=50
 
 White balance:
 
+:-------------------------:|:-------------------------:|:-------------------------:
 1.43	|	1.0	|	1.77
 
 Color correction matrix:
