@@ -3,11 +3,11 @@ This python script calculates color correction matrix for camera rgb sensor base
  - captured image of 24 field color chart
  - LAB data of this color chart
 
-Image of color chart should be 600x400 pixels debayered rgb linear(!) data, 3x8 bit, see example: color_target_sun.tif, captured without saturation.
+Image of color chart should be 600x400 pixels debayered rgb linear(!) data, 3x8 bit, captured without saturation.
 Illumination must be as uniform as possible: no correction for this in the script.
 Median filter applied to the image helps achieving better results.
 
-Here is an example of captured image (linear data without gamma correction is displayed too dark):
+Here is an example of captured image, color_target_sun.tif (linear data without gamma correction is displayed too dark):
 
 <p align="center">
 <img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/color_target_sun.png" width="400"/>
