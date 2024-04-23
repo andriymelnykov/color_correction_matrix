@@ -34,10 +34,23 @@ Color correction matrix:
 0.05144559	-0.74390103	1.66072276
 ``` 
 
-Here are the colors of captured target with **white balance only** (display gamma):
+Here are the colors of captured target with **white balance only** (display gamma). Colors are off and not saturated:
 
 <p align="center">
 <img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/my_wbonly_displaygamma.png" width="400"/>
 </p>
+
+Here are the colors of captured target with **white balance and color correction matrix** (display gamma). Colors are ok:
+
+<p align="center">
+<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/my_corrected_displaygamma.png" width="400"/>
+</p>
+
+Here are the colors of color target for reference, according to color chart parameters (difplay gamma):
+
+<p align="center">
+<img src="https://github.com/andriymelnykov/color_correction_matrix/blob/main/images/ref_srgb_displaygamma.png" width="400"/>
+</p>
+
 
 Andriy Melnykov 2024
